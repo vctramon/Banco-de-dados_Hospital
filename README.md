@@ -43,7 +43,3 @@ Por último, crie um script SQL para a geração do banco de dados e para instru
 
 ![teste de cores e design](DiagramaER-Os-Segredos-do-Hospital.drawio.png)
 
-
-
-
-https://github.com/julliakathelyn
